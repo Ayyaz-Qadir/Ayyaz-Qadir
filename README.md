@@ -1,6 +1,6 @@
 Assalam o Alaikum
 
-# Me Ayyaz Qadir
+# Ayyaz Qadir
 
 # 💫 About Me:
 🔭 I’m currently doing an internship at @Bytewise Limited.<br>👯 I’m looking to collaborate on open-source and front-end development projects.<br>🤝 I’m looking for help with scalable projects & working on scalable projects.<br>🌱 I’m learning React JS, Next JS, & Front-end development.<br>💬 You can reach out to me by email at ayyazqadir05@gmail.com
